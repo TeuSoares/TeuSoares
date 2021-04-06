@@ -8,3 +8,10 @@ Siga minhas outras redes sociais, pois lá também posto varias coisas relaciona
 
 ### Siga minhas redes sociais 👇
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCiZltANHyvfvbwfWO3pmYbQ/featured)](https://www.youtube.com/channel/UCiZltANHyvfvbwfWO3pmYbQ/featured) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-soares-14b889127/)](https://www.linkedin.com/in/mateus-soares-14b889127/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/teusoaresz/)](https://www.instagram.com/teusoaresz/) 
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Status Github Mateus" src="https://github-readme-stats.vercel.app/api?username=TeuSoares&show_icons=true&hide_border=true" />
+
+</details>
