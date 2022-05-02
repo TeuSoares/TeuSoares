@@ -2,8 +2,6 @@
 
 Sou um desenvolvedor full stack apaixonado por tecnologia, estou no campo de batalha contra os bugs desde 2019.
 
-Se quiser conhecer mais sobre mim e meu trabalho, acompanhe minhas redes sociais. 
-
 #### ⚡ "O medo é apenas um mero detalhe de uma alma corajosa" ⚡
 
 ### Siga minhas redes sociais 👇
