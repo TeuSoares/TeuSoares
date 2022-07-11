@@ -1,6 +1,6 @@
 ## Eae jovem, Sou o Mateus!! 👋
 
-#### ⚡ Sou um desenvolvedor web apaixonado por tecnologia, estou no campo de batalha contra os bugs desde 2019. ⚡
+#### ⚡ Sou um Desenvolvedor Full Stack apaixonado por tecnologia, estou no campo de batalha contra os bugs desde 2019. ⚡
 
 #### TECNOLOGIAS:
 <div style="display: inline_block">
