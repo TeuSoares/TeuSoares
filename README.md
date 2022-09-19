@@ -18,7 +18,7 @@
 
 ##
 
-### Siga minhas redes sociais 👇
+### Redes Sociais 👇
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-soares-14b889127/)](https://www.linkedin.com/in/mateus-soares-santos/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mateusoaresz/)](https://www.instagram.com/mateusoaresz/) 
 
 <div>
