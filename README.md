@@ -18,8 +18,10 @@
 
 ##
 
-### Redes Sociais 👇
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-soares-14b889127/)](https://www.linkedin.com/in/mateus-soares-santos/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mateusoaresz/)](https://www.instagram.com/mateusoaresz/) 
+### Entre em contato 👇
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-soares-14b889127/)](https://www.linkedin.com/in/mateus-soares-santos/) 
+[![Instagram Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mateussoares114@gmail.com)](mailto:mateussoares114@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/mateusoaresz/)](https://www.instagram.com/mateusoaresz/)
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TeuSoares&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
