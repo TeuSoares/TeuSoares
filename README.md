@@ -1,6 +1,6 @@
 ## Hi there, i'm Mateus!! 👋
 
-I'm a developer and entrepreneur. I have experience with developing web projects, using technologies such as React, Next, Vue, PHP, Laravel, MySQL. Daily I contribute within a development team, helping other developers with technical challenges, proposing improvements, aiming to deliver demands and grow the company , together with the team. In my free time, I like to work on my side projects.
+I'm a developer and entrepreneur. I have experience with developing web projects, using technologies such as React, Next, Vue, PHP, Laravel, MySQL. Daily I contribute within a development team, helping other developers with technical challenges, proposing improvements, aiming to deliver demands and grow the company, together with the team. In my free time, I like to work on my side projects.
 
 ##
 
